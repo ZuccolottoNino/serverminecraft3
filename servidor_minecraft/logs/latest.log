@@ -1,0 +1,144 @@
+[23:38:41] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.4+7-1-24.04-Ubuntu; Ubuntu null) on Linux 6.8.0-1064-azure (amd64)
+[23:38:41] [ServerMain/INFO]: [bootstrap] Loading Paper 26.2-121-main@a2a42c5 (2026-08-29T11:32:25Z) for Minecraft 26.2
+[23:38:41] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:38:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[23:38:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.12.6)
+[23:38:50] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:38:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:38:52] [DataConverter MCTypeRegistry init thread/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,727.9ms
+[23:38:56] [ServerMain/INFO]: Loaded 1585 recipes
+[23:38:56] [ServerMain/INFO]: Loaded 1688 advancements
+[23:38:57] [Server thread/INFO]: Starting minecraft server version 26.2
+[23:38:57] [Server thread/INFO]: Loading properties
+[23:38:57] [Server thread/INFO]: This server is running Paper version 26.2-121-main@a2a42c5 (2026-08-29T11:32:25Z) (Implementing API version 26.2.build.121-stable)
+[23:38:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:38:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:38:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:38:58] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:38:59] [Server thread/INFO]: Default game type: SURVIVAL
+[23:38:59] [Server thread/INFO]: Generating keypair
+[23:38:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:38:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:38:59] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:38:59] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.6
+[23:38:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.6
+[23:39:00] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.2.0.
+[23:39:01] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:39:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:39:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:39:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:39:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:39:01] [Server thread/INFO]: Preparing level "world"
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.6
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: c8c321f
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:39:01] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[23:39:02] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[23:39:02] [Server thread/INFO]: Prepared spawn area in 5 ms
+[23:39:03] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[23:39:03] [Server thread/INFO]: Prepared spawn area in 0 ms
+[23:39:03] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[23:39:03] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:39:03] [Server thread/INFO]: Done preparing level "world" (1.318s)
+[23:39:03] [Server thread/INFO]: [spark] Starting background profiler...
+[23:39:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:39:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:39:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:39:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:39:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:39:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:39:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:39:04] [Server thread/INFO]: Running delayed init tasks
+[23:39:04] [Server thread/INFO]: Done (26.278s)! For help, type "help"
+[23:39:04] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 8 builds behind ***
+[23:39:04] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[23:39:20] [User Authenticator #0/INFO]: UUID of player FATSHIZO is ff909861-be8b-33d7-af35-45403b029e81
+[23:39:24] [Server thread/INFO]: FATSHIZO joined the game
+[23:39:24] [Server thread/INFO]: FATSHIZO[/127.212.189.226:53951] logged in with entity id 565 at ([minecraft:the_nether]49.44601333091679, 15.0, -24.077087942049722)
+[23:39:24] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9e4171ad-0512-4327-8f13-9929b674acb0, mapped to ThrownEnderpearl['Thrown Ender Pearl'/566, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=63.00, z=832.36, cpos=[38, 52], tl=0, v=false], can't add ThrownEnderpearl['Thrown Ender Pearl'/567, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=62.96, z=832.36, cpos=[38, 52], tl=0, v=false]
+[23:39:24] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[23:39:24] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9e4171ad-0512-4327-8f13-9929b674acb0, mapped to ThrownEnderpearl['Thrown Ender Pearl'/566, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=63.00, z=832.36, cpos=[38, 52], tl=0, v=false], can't add ThrownEnderpearl['Thrown Ender Pearl'/568, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=63.01, z=832.36, cpos=[38, 52], tl=0, v=false]
+[23:39:24] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[23:39:24] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9e4171ad-0512-4327-8f13-9929b674acb0, mapped to ThrownEnderpearl['Thrown Ender Pearl'/566, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=63.00, z=832.36, cpos=[38, 52], tl=0, v=false], can't add ThrownEnderpearl['Thrown Ender Pearl'/569, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=62.97, z=832.36, cpos=[38, 52], tl=0, v=false]
+[23:39:24] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[23:39:24] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9e4171ad-0512-4327-8f13-9929b674acb0, mapped to ThrownEnderpearl['Thrown Ender Pearl'/566, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=63.00, z=832.36, cpos=[38, 52], tl=0, v=false], can't add ThrownEnderpearl['Thrown Ender Pearl'/570, uuid='9e4171ad-0512-4327-8f13-9929b674acb0', l='ServerLevel[world]', x=610.56, y=62.95, z=832.36, cpos=[38, 52], tl=0, v=false]
+[23:39:24] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[23:39:28] [User Authenticator #1/INFO]: UUID of player bananaluvie is 4f6e693c-ae9b-3774-93a6-d0ee38650ec7
+[23:39:30] [Server thread/INFO]: bananaluvie joined the game
+[23:39:30] [Server thread/INFO]: bananaluvie[/127.186.103.47:58245] logged in with entity id 693 at ([minecraft:the_nether]76.67473727697566, 15.0, 13.048249027220093)
+[23:39:44] [Server thread/INFO]: [Not Secure] [Server] holu
+[23:39:55] [Server thread/INFO]: [Not Secure] [Server] perdon que me demore me dio un error y no me di cuenta
+[23:40:01] [Async Chat Thread - #0/INFO]: [Not Secure] <FATSHIZO> tranka
+[23:40:08] [Async Chat Thread - #0/INFO]: [Not Secure] <bananaluvie> tranqui
+[23:40:09] [Async Chat Thread - #2/INFO]: [Not Secure] <FATSHIZO> no estabamos en nada importante igual
+[23:40:20] [Async Chat Thread - #2/INFO]: [Not Secure] <FATSHIZO> nada más enseñandole a la piba a picar netherite
+[23:59:09] [Server thread/INFO]: Stopping server
+[23:59:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.6
+[23:59:09] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:175) ~[paper-26.2.jar:26.2-121-a2a42c5]
+Caused by: java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:201) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:71) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$1.read(AbstractPty.java:58) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:124) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:157) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:56) ~[jline-terminal-3.27.1.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[23:59:09] [Server thread/INFO]: Saving players
+[23:59:10] [Server thread/INFO]: FATSHIZO lost connection: Server closed
+[23:59:10] [Server thread/INFO]: FATSHIZO left the game
+[23:59:10] [Server thread/INFO]: bananaluvie lost connection: Server closed
+[23:59:10] [Server thread/INFO]: bananaluvie left the game
+[23:59:10] [Server thread/INFO]: Saving worlds
+[23:59:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 15 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.14s
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[23:59:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[23:59:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Saved 335 block chunks, 144 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 3.05s
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[23:59:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[23:59:13] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[23:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:59:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:59:13] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[23:59:13] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[23:59:13] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:59:13] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
